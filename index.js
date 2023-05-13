@@ -1,7 +1,7 @@
 //bai tap1
 
 function cau1() {
-  var tongSo = 0;
+  var tongSo = 1;
   for (var i = 0; tongSo <= 10000; i++) {
     tongSo = tongSo + i;
   }
